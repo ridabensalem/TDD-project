@@ -4,7 +4,7 @@
 <div align="center">
   <br/>
 
-  <h3><b>TDD project  README</b></h3>
+  <h3><b>TDD Project</b></h3>
 
 </div>
 
@@ -32,7 +32,7 @@
 - [📝 License](#license)
 
 # 📖 [TDD project ] <a name="about-project"></a>
-**[TDD project]** is a project that define various methods. 
+**[TDD project]** explores test-driven development (TDD) in Ruby. The idea is to write tests first and then the code.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -49,7 +49,8 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **[Create individual TDD project]**
+- Tests for the solver class
+- Solver class
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -72,27 +73,32 @@ To get a local copy up and running, follow these steps.
 
 - [git](https://git-scm.com/downloads): A tool for managing source code
 - [Visual Studio Code](https://code.visualstudio.com/): A source code editor
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): A simple web server utility for Visual Studio Code
 
 ### Setup
 
 Clone this repository to your desired folder:
-https://github.com/ridabensalem/School-library.git
- Example commands:
 
 ```sh
   cd my-folder
-https://github.com/ridabensalem/School-library.git```
+  https://github.com/ridabensalem/TDD-project.git
 ```
 
 ### Install
 
 Install this project with:
 
-` cd School-library
-  - Run gem install after cloning the repo
+```sh
+ cd my-folder
+ gem install
+```
 
-### Usage
+### Run Test
+To run tests:
+
+```sh
+  cd spec/
+  rspec spec solver_spec.rb
+```
 
 
 
@@ -106,11 +112,16 @@ Install this project with:
 - Twitter: [@coder_rida](https://twitter.com/coder_rida)
 - LinkedIn: [ridabesalem](https://linkedin.com/in/ridabensalem)
 
+👤 **Author2**
+
+- GitHub: [Richard](https://github.com/ikennarichard)
+- LinkedIn: [Richard](https://linkedin.com/in/ikenna-richard)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Add more methods to TDD project ]**
+- Add additional tests for methods in the solver class
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -119,19 +130,19 @@ Install this project with:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/ridabensalem/TDD-project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please give it a start and share it with your friends. 
+If you like this project please give it a star ⭐️ and share it with your friends. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to appreciate[Microverse](https://www.microverse.org/) for providing the resources and the platform for us to be a Professional full-stack developer.
+I would like to appreciate[Microverse](https://www.microverse.org/) for providing the resources and the platform for us to learn web development.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
