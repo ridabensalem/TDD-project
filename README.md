@@ -32,7 +32,7 @@
 - [📝 License](#license)
 
 # 📖 [TDD project ] <a name="about-project"></a>
-**[TDD project]** explores test-driven development (TDD) in Ruby. The idea is to write tests first and then the code.
+TDD project explores test-driven development in Ruby. The project helps us learn how to write tests first and then the code.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -142,7 +142,7 @@ If you like this project please give it a star ⭐️ and share it with your fri
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to appreciate[Microverse](https://www.microverse.org/) for providing the resources and the platform for us to learn web development.
+I would like to appreciate[Microverse](https://www.microverse.org/) for providing the resources and the platform for us to learn full stack web development.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
